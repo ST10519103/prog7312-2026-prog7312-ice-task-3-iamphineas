@@ -263,6 +263,7 @@ The Album Collection interface should load without unexpected application errors
 PASS
 
 The application launched successfully and displayed the Album Collection interface.
+<img width="547" height="932" alt="image" src="https://github.com/user-attachments/assets/f407608d-ee7e-4dec-aa7e-6844d34d4706" />
 
 ---
 
@@ -281,6 +282,7 @@ A validation message should appear and no album should be added.
 PASS
 
 The application displayed a validation error requesting an album title.
+<img width="547" height="933" alt="image" src="https://github.com/user-attachments/assets/bd2479f7-630d-4c03-8e47-7d7047bd0dff" />
 
 ---
 
@@ -299,6 +301,7 @@ The album should be added to the favourites collection and displayed correctly.
 PASS
 
 The album was successfully added and displayed in the collection.
+<img width="550" height="935" alt="image" src="https://github.com/user-attachments/assets/de04e11e-4e4a-462f-a3da-b6a502fe6a06" />
 
 ---
 
@@ -317,6 +320,8 @@ All albums should remain in the collection.
 PASS
 
 The collection count increased and previously added albums remained available.
+<img width="538" height="943" alt="image" src="https://github.com/user-attachments/assets/8dd1ba8f-1b71-4f76-8806-9bc6620d5da0" />
+<img width="537" height="941" alt="image" src="https://github.com/user-attachments/assets/92fe7ddf-73b9-46ab-a144-75cb7b3532c2" />
 
 ---
 
@@ -335,6 +340,7 @@ The application should reject the rating.
 PASS
 
 The application rejected the invalid rating and displayed the appropriate validation message.
+<img width="550" height="937" alt="image" src="https://github.com/user-attachments/assets/4f0d3175-cba5-4059-a4b6-200cd930a8b5" />
 
 ---
 
@@ -353,6 +359,7 @@ The selected genre should update correctly.
 PASS
 
 The Picker correctly displayed and stored the selected genre.
+<img width="556" height="937" alt="image" src="https://github.com/user-attachments/assets/f0327749-0cbf-4ce1-a55a-0bb8aa44adf9" />
 
 ---
 
@@ -371,6 +378,7 @@ Only the selected album should be removed while the other albums remain.
 PASS
 
 The selected album was removed and the remaining album records stayed in the collection.
+<img width="542" height="817" alt="image" src="https://github.com/user-attachments/assets/cbf92df4-e25f-4513-85e4-37843d2ad26e" />
 
 ---
 
@@ -389,6 +397,7 @@ The application should remain stable and continue accepting new information.
 PASS
 
 The application continued to operate correctly after album deletion.
+<img width="541" height="942" alt="image" src="https://github.com/user-attachments/assets/148ec71a-7ad1-42db-b6ce-7ccae0718de4" />
 
 ---
 
@@ -413,19 +422,11 @@ All required functional tests were completed successfully.
 
 The following screenshot shows the completed Album Collection application running in the BlueStacks 5 emulator using Expo Go.
 
-## Screenshot – Completed Application
 
-**ADD YOUR SCREENSHOT HERE**
+<img width="553" height="936" alt="image" src="https://github.com/user-attachments/assets/c98689ec-f054-4fd9-80e4-a21f79e723eb" />
 
-Save your screenshot inside the project using this structure:
+<img width="543" height="932" alt="image" src="https://github.com/user-attachments/assets/43baec6c-6b6b-40be-b6e4-5ec5bfd18266" />
 
-`screenshots/album-collection.png`
-
-Then replace this section with:
-
-![Completed Album Collection Application](screenshots/album-collection.png)
-
-The screenshot should clearly show the application running successfully in BlueStacks 5 with Expo Go.
 
 ---
 
